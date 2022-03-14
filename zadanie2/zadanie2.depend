@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610531790 source:d:\studia\semestr 3\akwb\zadanie 2 03.12.2020\graf2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+	<map>
+

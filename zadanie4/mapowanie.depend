@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611404637 source:c:\users\marty\documents\studia\semestr 3\akwb\zadanie 4 20.01.2020\mapowanie\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<algorithm>
+	<set>
+	<ctime>
+

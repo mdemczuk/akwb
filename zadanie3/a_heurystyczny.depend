@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610530129 source:d:\studia\semestr 3\akwb\zadanie 3\a_heurystyczny\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<algorithm>
+
